@@ -75,6 +75,7 @@ def aud_to_usd(num)
   x=num*0.74
   x.ceil.to_f
 end
+
 eur_to_usd(0.85)
 
   
